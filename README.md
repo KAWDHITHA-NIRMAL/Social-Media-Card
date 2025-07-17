@@ -126,8 +126,9 @@ or
 
 ![Telegram Group](https://social-card.kawwa.site/api/telegram?username=UltraVpnEhichat&theme=dark&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png&overrideName=%F0%9D%99%90%F0%9D%99%87%F0%9D%99%8F%F0%9D%99%8D%F0%9D%98%BC%20%F0%9D%99%91%F0%9D%99%8B%F0%9D%99%89%E2%84%A2%F0%9F%87%B1%F0%9F%87%B0)
 
-| ![Preivew Item](https://social-card.kawwa.site/api/telegram?username=UltraVpnEhichat&theme=light&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png&overrideName=%F0%9D%99%90%F0%9D%99%87%F0%9D%99%8F%F0%9D%99%8D%F0%9D%98%BC%20%F0%9D%99%91%F0%9D%99%8B%F0%9D%99%89%E2%84%A2%F0%9F%87%B1%F0%9F%87%B0) | ![Preivew Item](https://social-card.kawwa.site/api/telegram?username=chat_V2ray&theme=light&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png&overrideName=%F0%9D%99%90%F0%9D%99%87%F0%9D%99%8F%F0%9D%99%8D%F0%9D%98%BC%20%F0%9D%99%91%F0%9D%99%8B%F0%9D%99%89%E2%84%A2%F0%9F%87%B1%F0%9F%87%B0) |
-|------------|-----------|
+| ![Preivew Item](https://social-card.kawwa.site/api/telegram?username=UltraVpnEhichat&theme=light&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png&overrideName=%F0%9D%99%90%F0%9D%99%87%F0%9D%99%8F%F0%9D%99%8D%F0%9D%98%BC%20%F0%9D%99%91%F0%9D%99%8B%F0%9D%99%89%E2%84%A2%F0%9F%87%B1%F0%9F%87%B0) 
+![Preivew Item](https://social-card.kawwa.site/api/telegram?username=chat_V2ray&theme=light&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png&overrideName=%F0%9D%99%90%F0%9D%99%87%F0%9D%99%8F%F0%9D%99%8D%F0%9D%98%BC%20%F0%9D%99%91%F0%9D%99%8B%F0%9D%99%89%E2%84%A2%F0%9F%87%B1%F0%9F%87%B0) 
+
 
 ###### Whatsapp
 
@@ -146,9 +147,11 @@ or
 
 #### 👤 Contacts
 
-![whatsapp con](https://social-card.kawwa.site/api?channellink=94729787750&theme=light&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png&overrideName=NIRMAL%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&overrideProfileImage=https%3A%2F%2Fmmg.whatsapp.net%2Fm1%2Fv%2Ft24%2FAn80rGF-s_BquCwdOFQp-zCFRG3sOxdei7HnTSTZEgBIlnXafGMw4bpsFefovjECGsGMaaYYsQJrP61QWS2ackV4BBtR1U_EdRdpfpj-y_YQmlpAhAFpuAS9W97cPeA0cC_4VqpfLrzq9k52j0DX%3F_nc_gid%3Dgzs1OOKEWLqMynpjjVwPRg%26_nc_oc%3DAdl-FEn7sK1nLbzn0nlkEiF_1VwyAadtFuAyQfa2aPd2_1I2SFPs2h_2lMcJhpUqYY4%26ccb%3D10-5%26oh%3D01_Q5Aa2AEVldJnTqwnIOmJygLcQ9KHcoHMD5zCBisQS7aXP091wA%26oe%3D68A0177F%26_nc_sid%3D471a72&overrideClickableLink=https%3A%2F%2Fwa.me%2F%2B94767344814%3Ftext%3DHellow%20Dev%20Nirmal)
 
-![whatsapp con](https://social-card.kawwa.site/api?channellink=94729787750&theme=dark&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png&overrideName=NIRMAL%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&overrideProfileImage=https%3A%2F%2Fmmg.whatsapp.net%2Fm1%2Fv%2Ft24%2FAn80rGF-s_BquCwdOFQp-zCFRG3sOxdei7HnTSTZEgBIlnXafGMw4bpsFefovjECGsGMaaYYsQJrP61QWS2ackV4BBtR1U_EdRdpfpj-y_YQmlpAhAFpuAS9W97cPeA0cC_4VqpfLrzq9k52j0DX%3F_nc_gid%3Dgzs1OOKEWLqMynpjjVwPRg%26_nc_oc%3DAdl-FEn7sK1nLbzn0nlkEiF_1VwyAadtFuAyQfa2aPd2_1I2SFPs2h_2lMcJhpUqYY4%26ccb%3D10-5%26oh%3D01_Q5Aa2AEVldJnTqwnIOmJygLcQ9KHcoHMD5zCBisQS7aXP091wA%26oe%3D68A0177F%26_nc_sid%3D471a72&overrideClickableLink=https%3A%2F%2Fwa.me%2F%2B94767344814%3Ftext%3DHellow%20Dev%20Nirmal)
+
+<a href="https://wa.me/+94767344814?text=Hellow Dev Nirmal" target="_blank" rel="noopener noreferrer">
+<img src="https://social-card.kawwa.site/api?channellink=94729787750&theme=light&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png&overrideName=NIRMAL%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&overrideProfileImage=https%3A%2F%2Fmmg.whatsapp.net%2Fm1%2Fv%2Ft24%2FAn80rGF-s_BquCwdOFQp-zCFRG3sOxdei7HnTSTZEgBIlnXafGMw4bpsFefovjECGsGMaaYYsQJrP61QWS2ackV4BBtR1U_EdRdpfpj-y_YQmlpAhAFpuAS9W97cPeA0cC_4VqpfLrzq9k52j0DX%3F_nc_gid%3Dgzs1OOKEWLqMynpjjVwPRg%26_nc_oc%3DAdl-FEn7sK1nLbzn0nlkEiF_1VwyAadtFuAyQfa2aPd2_1I2SFPs2h_2lMcJhpUqYY4%26ccb%3D10-5%26oh%3D01_Q5Aa2AEVldJnTqwnIOmJygLcQ9KHcoHMD5zCBisQS7aXP091wA%26oe%3D68A0177F%26_nc_sid%3D471a72&overrideClickableLink=https%3A%2F%2Fwa.me%2F%2B94767344814%3Ftext%3DHellow%20Dev%20Nirmal" alt="WhatsApp Entity"  />
+</a>
 
 # ✨Site🔥
 ```
