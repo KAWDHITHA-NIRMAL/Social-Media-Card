@@ -63,6 +63,35 @@ On the home page, you will see two options:
 3.  **Generate**: Click the "Generate Card" button.
 4.  **Preview and Copy**: The generated card URL, a live preview, and ready-to-use HTML code snippets (with and without clickable functionality) will appear. Copy the URL or HTML code to embed it.
 
+## 🛠️ Usage
+
+### Basic Usage
+
+```
+https://social-card.kawwa.site/?username=cybercy
+```
+
+### With Theme Specification
+
+Dark 🌚
+```
+https://social-card.kawwa.site/?username=cyberyc&theme=dark
+```
+Light 🌝
+```
+https://social-card.kawwa.site/?username=cyberyc&theme=light
+```
+
+### For Github Readme.md
+
+```html
+<img src="https://social-card.kawwa.site/api/telegram?username=cyberyc&theme=light" alt="Telegram Profile" style="width: 300px; max-width: 100%; height: auto;" />
+```
+or
+```markdown
+![Cyberyakku](https://social-card.kawwa.site/?username=cyberyc)
+```
+
 ## 📸 Examples
 
 ##### TELEGRAM
@@ -100,6 +129,26 @@ On the home page, you will see two options:
 | ![Preivew Item](https://social-card.kawwa.site/api/telegram?username=UltraVpnEhichat&theme=light&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png&overrideName=%F0%9D%99%90%F0%9D%99%87%F0%9D%99%8F%F0%9D%99%8D%F0%9D%98%BC%20%F0%9D%99%91%F0%9D%99%8B%F0%9D%99%89%E2%84%A2%F0%9F%87%B1%F0%9F%87%B0) | ![Preivew Item](https://social-card.kawwa.site/api/telegram?username=chat_V2ray&theme=light&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png&overrideName=%F0%9D%99%90%F0%9D%99%87%F0%9D%99%8F%F0%9D%99%8D%F0%9D%98%BC%20%F0%9D%99%91%F0%9D%99%8B%F0%9D%99%89%E2%84%A2%F0%9F%87%B1%F0%9F%87%B0) |
 |------------|-----------|
 
+###### Whatsapp
+
+#### 🔔 Channel
+
+![Whatsapp Channel](https://social-card.kawwa.site/api?channellink=https%3A%2F%2Fwhatsapp.com%2Fchannel%2F0029Vb6XpB7GpLHUmeubXX0E&theme=light&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png)
+
+![Whatsapp channel](https://social-card.kawwa.site/api?channellink=https%3A%2F%2Fwhatsapp.com%2Fchannel%2F0029Vb6XpB7GpLHUmeubXX0E&theme=dark&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png)
+
+
+#### 👥 Group
+
+![whatsapp group](https://social-card.kawwa.site/api?channellink=https%3A%2F%2Fchat.whatsapp.com%2FEOYtSgOfGu6JvjIhqZgezL&theme=light&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png)
+
+![whatsapp gopup](https://social-card.kawwa.site/api?channellink=https%3A%2F%2Fchat.whatsapp.com%2FEOYtSgOfGu6JvjIhqZgezL&theme=dark&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png)
+
+#### 👤 Contacts
+
+![whatsapp con](https://social-card.kawwa.site/api?channellink=94729787750&theme=light&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png&overrideName=NIRMAL%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&overrideProfileImage=https%3A%2F%2Fmmg.whatsapp.net%2Fm1%2Fv%2Ft24%2FAn80rGF-s_BquCwdOFQp-zCFRG3sOxdei7HnTSTZEgBIlnXafGMw4bpsFefovjECGsGMaaYYsQJrP61QWS2ackV4BBtR1U_EdRdpfpj-y_YQmlpAhAFpuAS9W97cPeA0cC_4VqpfLrzq9k52j0DX%3F_nc_gid%3Dgzs1OOKEWLqMynpjjVwPRg%26_nc_oc%3DAdl-FEn7sK1nLbzn0nlkEiF_1VwyAadtFuAyQfa2aPd2_1I2SFPs2h_2lMcJhpUqYY4%26ccb%3D10-5%26oh%3D01_Q5Aa2AEVldJnTqwnIOmJygLcQ9KHcoHMD5zCBisQS7aXP091wA%26oe%3D68A0177F%26_nc_sid%3D471a72&overrideClickableLink=https%3A%2F%2Fwa.me%2F%2B94767344814%3Ftext%3DHellow%20Dev%20Nirmal)
+
+![whatsapp con](https://social-card.kawwa.site/api?channellink=94729787750&theme=dark&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png&overrideName=NIRMAL%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&overrideProfileImage=https%3A%2F%2Fmmg.whatsapp.net%2Fm1%2Fv%2Ft24%2FAn80rGF-s_BquCwdOFQp-zCFRG3sOxdei7HnTSTZEgBIlnXafGMw4bpsFefovjECGsGMaaYYsQJrP61QWS2ackV4BBtR1U_EdRdpfpj-y_YQmlpAhAFpuAS9W97cPeA0cC_4VqpfLrzq9k52j0DX%3F_nc_gid%3Dgzs1OOKEWLqMynpjjVwPRg%26_nc_oc%3DAdl-FEn7sK1nLbzn0nlkEiF_1VwyAadtFuAyQfa2aPd2_1I2SFPs2h_2lMcJhpUqYY4%26ccb%3D10-5%26oh%3D01_Q5Aa2AEVldJnTqwnIOmJygLcQ9KHcoHMD5zCBisQS7aXP091wA%26oe%3D68A0177F%26_nc_sid%3D471a72&overrideClickableLink=https%3A%2F%2Fwa.me%2F%2B94767344814%3Ftext%3DHellow%20Dev%20Nirmal)
 
 # ✨Site🔥
 ```
