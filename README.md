@@ -7,7 +7,8 @@
 <div align='center'>
 
 [![Next.JS](https://img.shields.io/badge/Next.JS-SSR-874fff?logo=nextdotjs&style=flat)](https://nextjs.org/)
-[![Telegram Public Data](https://img.shields.io/badge/Telegram-Card-0088CC?logo=telegram&style=flat)]([https://t.me/SingleDevelopers](https://t.me/itz_me_nirmaldev))
+[![Telegram Public Data](https://img.shields.io/badge/Telegram-Card-0088CC?logo=telegram&style=flat)]([https://t.me/itz_me_nirmaldev](https://t.me/itz_me_nirmaldev))
+[![Whatsapp Public Data](https://img.shields.io/badge/Whatsapp-Card-0088CC?logo=Whatsapp&style=flat)]([https://t.me/itz_me_nirmaldev](https://t.me/itz_me_nirmaldev))
 </div>
 
 A powerful and easy-to-use tool to generate beautiful, dynamic preview cards for WhatsApp and Telegram entities. Perfect for embedding in websites, social media posts, and documentation to enhance engagement and provide rich previews.
