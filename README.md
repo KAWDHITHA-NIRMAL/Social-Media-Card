@@ -1,4 +1,4 @@
-<p><h1 align="center">Social Media Card - Widget Youtube , Telegram & Whatsapp</h1></p>
+<p><h1 align="center">Social Media Card - Widget Youtube , TikTok , Telegram & Whatsapp</h1></p>
 
 <p style="text-align:center;" align="center">
   <img align="center" src="https://github.com/user-attachments/assets/39b7b5d1-308e-462e-b414-b7662bf92341" alt="Telegram Card Widget" width="300px" height="300px"/>
@@ -12,7 +12,7 @@
 [![YoutubePublic Data](https://img.shields.io/badge/Youtube-Card-0088CC?logo=Youtube&style=flat)]([https://t.me/itz_me_nirmaldev](https://t.me/itz_me_nirmaldev))
 </div>
 
-A powerful and easy-to-use tool to generate beautiful, dynamic preview cards for WhatsApp,Youthube and Telegram entities. Perfect for embedding in websites, social media posts, and documentation to enhance engagement and provide rich previews.
+A powerful and easy-to-use tool to generate beautiful, dynamic preview cards for WhatsApp,Youtube,Tiktok and Telegram entities. Perfect for embedding in websites, social media posts, and documentation to enhance engagement and provide rich previews.
 
 
 ## ✨ Features
@@ -22,6 +22,8 @@ A powerful and easy-to-use tool to generate beautiful, dynamic preview cards for
 *   **Clickable Cards**: Generated cards are fully clickable, directing users directly to the respective WhatsApp entity or Telegram profile.
 *   **Easy Integration**: Provides ready-to-use HTML code snippets for seamless embedding into any web page.
 *   **Responsive Design**: The generated cards and the generator interface are designed to look great on any device.
+*   **Custom Theme
+*   **Advanced Customization
 
 ## 🚀 Technologies Used
 
@@ -50,27 +52,37 @@ Open your web browser and go to the demo site: [https://social-card.kawwa.site](
 On the home page, you will see two options:
 *   **WhatsApp Cards**: Click "Go to WhatsApp Generator" to create cards for WhatsApp channels, groups, or contacts.
 *   **Telegram Cards**: Click "Go to Telegram Generator" to create cards for Telegram profiles, channels, groups, or bots.
+*   **Youtube Cards**: Click "Go to Youtube Generator" to create cards for Youtube profiles, channels.
+*   **TikTok Cards**: Click "Go to TikTok Generator" to create cards for TikTok profiles, channels.
 
 ### 3. Generate Your Card (WhatsApp Example)
 
 1.  **Enter WhatsApp Link or Number**: On the WhatsApp Card Generator page, enter a valid WhatsApp channel link (e.g., \`https://whatsapp.com/channel/0029Vb6XpB7GpLHUmeubXX0E\`), a WhatsApp group link (e.g., \`https://chat.whatsapp.com/ABCDEFGHIJKLMNO\`), or a phone number (e.g., \`+94729787750 Business Acc Only \`).
-2.  **Select Theme**: Choose between "Light" or "Dark" theme for your card.
+2.  **Select Theme**: Choose between "Light" or "Dark" or "Custom" theme for your card.
 3.  **Generate**: Click the "Generate Card" button.
 4.  **Preview and Copy**: The generated card URL, a live preview, and ready-to-use HTML code snippets (with and without clickable functionality) will appear. You can copy the URL or HTML code to embed it wherever you need.
 
 ### 4. Generate Your Card (Telegram Example)
 
 1.  **Enter Telegram Username**: On the Telegram Card Generator page, enter a valid Telegram username (e.g., \`telegram\`, \`durov\`, \`Cyber_yakku\`).
-2.  **Select Theme**: Choose between "Light" or "Dark" theme for your card.
+2.  **Select Theme**: Choose between "Light" or "Dark" or "Custom" theme for your card.
 3.  **Generate**: Click the "Generate Card" button.
 4.  **Preview and Copy**: The generated card URL, a live preview, and ready-to-use HTML code snippets (with and without clickable functionality) will appear. Copy the URL or HTML code to embed it.
 
 ### 5. Generate Your Card (YouTube Example)
 
 1.  **Enter YouTube Channel URL**: On the YouTube Card Generator page, enter a valid YouTube channel URL (e.g., `https://www.youtube.com/@KawdhithaNirmal`).
-2.  **Select Theme**: Choose between "Light" or "Dark" theme for your card.
+2.  **Select Theme**: Choose between "Light" or "Dark" or "Custom" theme for your card.
 3.  **Generate**: Click the "Generate Card" button.
 4.  **Preview and Copy**: The generated card URL, a live preview, and ready-to-use HTML code snippets (with and without clickable functionality) will appear. Copy the URL or HTML code to embed it.
+
+### 6. Generate Your Card (TikTok Example)
+
+1.  **Enter TikTok Channel URL**: On the TikTok Card Generator page, enter a valid TikTok channel URL (e.g., `https://www.tiktok.com/@therock`).
+2.  **Select Theme**: Choose between "Light" or "Dark" or "Custom" theme for your card.
+3.  **Generate**: Click the "Generate Card" button.
+4.  **Preview and Copy**: The generated card URL, a live preview, and ready-to-use HTML code snippets (with and without clickable functionality) will appear. Copy the URL or HTML code to embed it.
+
 
 ## 🛠️ Usage
 
@@ -90,7 +102,10 @@ Light 🌝
 ```
 https://social-card.kawwa.site/?username=cyberyc&theme=light
 ```
-
+🎨 Custom Theme
+```
+https://social-card.kawwa.site/api/telegram?username=cyberyc&theme=dark&bgColor=%23343232&textColor=%23ffffff&fontFamily=system-ui
+```
 ### For Github Readme.md
 
 ```html
@@ -112,6 +127,9 @@ or
 
 #### 🌚 Dark Theme
 ![Channel Dark Theme](https://social-card.kawwa.site/api/telegram?username=Premium&theme=dark)
+
+#### 🎨 Custom Theme
+![Channel Custom Theme](https://social-card.kawwa.site/api/telegram?username=cyberyc&theme=dark&bgColor=%23343232&textColor=%23ffffff&fontFamily=system-ui)
 
 ### 🗂 Source Types Support
 
@@ -147,6 +165,8 @@ or
 
 ![Whatsapp channel](https://social-card.kawwa.site/api?channellink=https%3A%2F%2Fwhatsapp.com%2Fchannel%2F0029Vb6XpB7GpLHUmeubXX0E&theme=dark&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png)
 
+![Whatsapp channel cus](https://social-card.kawwa.site/api?channellink=https%3A%2F%2Fwhatsapp.com%2Fchannel%2F0029Vb6XpB7GpLHUmeubXX0E&theme=dark&bgColor=%231E293A&textColor=%23ffffff&extraColor=%23ff0050&fontFamily=system-ui)
+
 
 #### 👥 Group
 
@@ -176,6 +196,9 @@ or
 #### 🌚 Dark Theme
 ![YouTube Channel Dark Theme](https://social-card.kawwa.site/api/youtube?url=https%3A%2F%2Fwww.youtube.com%2F%40Cyberyakku&theme=dark&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png&overrideName=Cyber%20yakku&overrideProfileImage=https%3A%2F%2Fyt3.googleusercontent.com%2Fytc%2FAIdro_kUjLUaepU5rT23qdUMEqocE4SLuPAf2UQzv0qr--VXAw%3Ds160-c-k-c0x00ffffff-no-rj&overrideClickableLink=https%3A%2F%2Fyoutube.com%2F%40cyberyakku%3Fsi%3DnjEYbtgaWRcr64qk&overrideSubscribersText=1.2M%20Subscribers)
 
+#### 🎨 Custom Theme
+![YouTube Channel Custom Theme](https://social-card.kawwa.site/api/youtube?url=https%3A%2F%2Fwww.youtube.com%2F%40sinhalacartoon_feel&theme=dark)
+
 ### 🗂 Source Types Support
 
 #### ✅ Verified Channel
@@ -188,6 +211,31 @@ or
 ![YouTube Unverified Channel](https://social-card.kawwa.site/api/youtube?url=https://www.youtube.com/@crecapsinhala&theme=light)
 
 ![YouTube Unverified Channel](https://social-card.kawwa.site/api/youtube?url=https%3A%2F%2Fwww.youtube.com%2F%40cyberyakku&theme=dark&overrideVerified=false&overrideName=ITZ%20ME%20NIRMAL&overrideProfileImage=https%3A%2F%2Fmmg.whatsapp.net%2Fm1%2Fv%2Ft24%2FAn80rGF-s_BquCwdOFQp-zCFRG3sOxdei7HnTSTZEgBIlnXafGMw4bpsFefovjECGsGMaaYYsQJrP61QWS2ackV4BBtR1U_EdRdpfpj-y_YQmlpAhAFpuAS9W97cPeA0cC_4VqpfLrzq9k52j0DX%3F_nc_gid%3DiSpjAXQL6Gl9v5kFZ25v9g%26_nc_oc%3DAdl-FEn7sK1nLbzn0nlkEiF_1VwyAadtFuAyQfa2aPd2_1I2SFPs2h_2lMcJhpUqYY4%26ccb%3D10-5%26oh%3D01_Q5Aa2AE0Z40fgiDeBa35rTURsM6dfEaXPG-ufiqPhNZCrofokg%26oe%3D68A04FBF%26_nc_sid%3D471a72&overrideClickableLink=https%3A%2F%2Fyoutube.com%2F%40KawdhithaNirmal%3Fsi%3DnjEYbtgaWRcr64qk&overrideSubscribersText=1.2M%20Subscribers)
+
+####### TikTok
+
+### 🎨 Theme Support
+
+#### 🌝 Light Theme
+![TikTok Channel Light Theme](https://social-card.kawwa.site/api/tiktok?username=therock&theme=light&fontFamily=system-ui)
+
+#### 🌚 Dark Theme
+![TikTok Channel Dark Theme](https://social-card.kawwa.site/api/tiktok?username=therock&theme=dark&fontFamily=system-ui)
+
+#### 🎨 Custom Theme
+![TikTok Channel Custom Theme](https://social-card.kawwa.site/api/tiktok?username=therock&theme=dark&fontFamily=system-ui)
+
+### 🗂 Source Types Support
+
+#### ✅ Verified Channel
+![TikTok Verified Channel](https://social-card.kawwa.site/api/tiktok?username=therock&theme=dark&fontFamily=system-ui)
+
+
+#### ❌ Unverified Channel
+![TikTok Unverified Channel](https://social-card.kawwa.site/api/tiktok?url=https%3A%2F%2Fwww.tiktok.com%2F%40feel_page.lk&theme=dark&fontFamily=system-ui)
+
+![TikTok Unverified Channel](https://social-card.kawwa.site/api/tiktok?url=https%3A%2F%2Fwww.tiktok.com%2F%40feel_page.lk&theme=light&fontFamily=system-ui)
+
 # ✨Site🔥
 ```
 https://social-card.kawwa.site
