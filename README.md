@@ -3,6 +3,10 @@
 <p style="text-align:center;" align="center">
   <img align="center" src="https://github.com/user-attachments/assets/39b7b5d1-308e-462e-b414-b7662bf92341" alt="Telegram Card Widget" width="300px" height="300px"/>
 </p>
+<p style="text-align:center;" align="center">
+  <img align="center" src="https://kawwa.pages.dev/social-card/banner.png" alt="Telegram Card Widget" width="300px" height="300px"/>
+</p>
+
 <h1 align="center">Social Media Card - Widget</h1>
 <div align='center'>
 
