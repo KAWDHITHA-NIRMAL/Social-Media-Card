@@ -14,6 +14,8 @@
 [![Telegram Public Data](https://img.shields.io/badge/Telegram-Card-0088CC?logo=telegram&style=flat)]([https://t.me/itz_me_nirmaldev](https://t.me/itz_me_nirmaldev))
 [![Whatsapp Public Data](https://img.shields.io/badge/Whatsapp-Card-0088CC?logo=Whatsapp&style=flat)]([https://t.me/itz_me_nirmaldev](https://t.me/itz_me_nirmaldev))
 [![YoutubePublic Data](https://img.shields.io/badge/Youtube-Card-0088CC?logo=Youtube&style=flat)]([https://t.me/itz_me_nirmaldev](https://t.me/itz_me_nirmaldev))
+[![TikTokPublic Data](https://img.shields.io/badge/Tiktok-Card-0088CC?logo=Tiktok&style=flat)]([https://t.me/itz_me_nirmaldev](https://t.me/itz_me_nirmaldev))
+[![TikTokPublic Data](https://img.shields.io/badge/Nirmal-Dev-0088CC?logo=github&style=flat)]([https://github.com/KAWDHITHA-NIRMAL](https://github.com/KAWDHITHA-NIRMAL))
 </div>
 
 A powerful and easy-to-use tool to generate beautiful, dynamic preview cards for WhatsApp,Youtube,Tiktok and Telegram entities. Perfect for embedding in websites, social media posts, and documentation to enhance engagement and provide rich previews.
